@@ -31,7 +31,9 @@ print(output)
 ``` 
 
 ## Sample outcome
+```py
 Tesla car not found, please put 1 if the item is food, 2 if the item is liquor and 3 if item is electronic.3
 vodka not found, please put 1 if the item is food, 2 if the item is liquor and 3 if item is electronic.2
 tea not found, please put 1 if the item is food, 2 if the item is liquor and 3 if item is electronic.2
 Total price is ¥11641583.
+```
