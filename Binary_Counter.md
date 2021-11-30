@@ -1,4 +1,4 @@
-```C++
+```C
 // C++ code
 //
 void setup()
@@ -6,7 +6,7 @@ void setup()
   pinMode(LED_BUILTIN, OUTPUT);
   Serial.begin(125000);
 }
-
+//This is the program to count from 0 to 7 with base 2
 void loop()
 {
   digitalWrite(LED_BUILTIN, HIGH);
@@ -40,7 +40,7 @@ void loop()
 
 # Output
 0-0,0,0
-1-0,0,1
+\n 1-0,0,1
 2-0,1,0
 3-0,1,1
 4-1,0,0
