@@ -18,3 +18,7 @@ print(output)
 ```
 # Output
 <img width="842" alt="Quiz16" src="https://user-images.githubusercontent.com/82266864/144793818-443aad37-55a5-4bbe-b2ef-f2784b732bff.png">
+
+# Flowchart
+![IMG_0219](https://user-images.githubusercontent.com/82266864/144940261-fed00f83-b98c-4d45-b40f-d9e7d16bc222.JPG)
+
