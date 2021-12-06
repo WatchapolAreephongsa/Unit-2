@@ -6,6 +6,10 @@ def Mixstart(mix):
     else:
         result = "FALSE"
     return result
-print(Mixstart('mmix sdd'))
+output = Mixstart('mmix sdd')
+print(output)
 
 ```
+
+# Output
+<img width="1423" alt="Quiz5" src="https://user-images.githubusercontent.com/82266864/144792556-762ed24f-6db6-4d25-b616-1300067b5639.png">
