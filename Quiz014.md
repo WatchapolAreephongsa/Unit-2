@@ -22,5 +22,6 @@ output = evenlySpread(2,4,6)
 print(output)
 ```
 
-# Sample outcome
-true
+# Output
+<img width="362" alt="Quiz14" src="https://user-images.githubusercontent.com/82266864/144793569-12eee52d-5d0c-4b1d-ae19-71428750a863.png">
+
