@@ -30,10 +30,8 @@ print(output)
 
 ``` 
 
-## Sample outcome
-```py
-Tesla car not found, please put 1 if the item is food, 2 if the item is liquor and 3 if item is electronic.3
-vodka not found, please put 1 if the item is food, 2 if the item is liquor and 3 if item is electronic.2
-tea not found, please put 1 if the item is food, 2 if the item is liquor and 3 if item is electronic.2
-Total price is ¥11641583.
-```
+# Output
+<img width="1382" alt="Quiz13" src="https://user-images.githubusercontent.com/82266864/144793482-ab81eb49-25b2-4e53-a102-cb0c5881f630.png">
+
+
+
