@@ -8,5 +8,7 @@ def SameFirstLast(n):
 output = SameFirstLast([1,1])
 print(output)
 ```
-# Sample Outcome
-TRUE
+# Output
+<img width="1160" alt="Quiz11" src="https://user-images.githubusercontent.com/82266864/144793343-3c278481-a580-4202-bae8-0b34349f59fc.png">
+
+
