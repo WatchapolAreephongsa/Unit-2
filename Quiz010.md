@@ -6,4 +6,10 @@ def BigNeighbour(n):
         if dif > max:
             max = dif
     return max
+output = BigNeighbour([1,2,103,5,6,7])
+print(output)
 ```
+# Output
+<img width="1180" alt="Quiz10" src="https://user-images.githubusercontent.com/82266864/144793298-a9ae9a18-dc1a-4c39-b755-52836e3aade3.png">
+
+
