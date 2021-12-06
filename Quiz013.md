@@ -6,6 +6,7 @@ def total (order, price):
     electronic = ["ipad", "TV", "iphone", "speaker", "headphone", "play station"]
     total = 0
     for i in range(len(order)):
+        #additional part for things that are not in the list.
         if order[i] not in food and order[i] not in liquor and order[i] not in electronic:
             category = input(f"{order[i]} not found, please put 1 if the item is food, 2 if the item is liquor and 3 if item is electronic.")
             if category == "1":
