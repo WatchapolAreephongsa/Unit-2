@@ -19,3 +19,5 @@ print(output)
 
 <img width="953" alt="Quiz18" src="https://user-images.githubusercontent.com/82266864/144794002-47f90251-8263-4fc1-8ce8-d2e39ce7a8a3.png">
 
+# Flow chart
+![IMG_0217](https://user-images.githubusercontent.com/82266864/144940140-b4ba66db-7619-47bc-919d-9e6d7fb847b1.JPG)
