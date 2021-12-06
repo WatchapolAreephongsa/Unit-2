@@ -6,5 +6,8 @@ def reverse_mode(num):
     result = str(A)+ str(B)+str(C)
     return result
 
-print(reverse_mode("100!000!000"))
+output = reverse_mode("100!000!000")
+print(output)
 ```
+# Output
+<img width="929" alt="Quiz15" src="https://user-images.githubusercontent.com/82266864/144793631-33ac0c01-58f2-43ff-8b79-2755acd0a410.png">
