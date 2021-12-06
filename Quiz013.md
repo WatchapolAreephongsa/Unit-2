@@ -35,4 +35,5 @@ print(output)
 <img width="1382" alt="Quiz13" src="https://user-images.githubusercontent.com/82266864/144793482-ab81eb49-25b2-4e53-a102-cb0c5881f630.png">
 
 
-
+# Flowchart
+![IMG_0222](https://user-images.githubusercontent.com/82266864/144940465-1a45b7e1-de4c-4f6c-92d8-dff7e9a584a4.JPG)
