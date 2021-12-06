@@ -11,6 +11,6 @@ output = wordlength(["home", "car", "travel", "beach"])
 print(output)
 ```
 
-# Sample Outcome
+# Output
+<img width="896" alt="Quiz12" src="https://user-images.githubusercontent.com/82266864/144793403-73f450aa-26f4-419e-86fa-5d0552270aae.png">
 
-4.5
