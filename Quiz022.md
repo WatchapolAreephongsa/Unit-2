@@ -1,20 +1,27 @@
 ```py
 
+# Function to count the number of characters between first and last character of a word which will start everytime there is space
 def BlackBox(wrd):
+    #define the variable for final product and count the number of character and put the first letter in the final result
     result = wrd[0]
     counter = 0
     for i in range (1,len(wrd)-1):
+        # When next letter is space it put the counter and the last letter of that word and reset the counter
         if wrd[i+1]==" ":
             if counter != 0:
                 result +=str(counter)
             result += wrd[i]
             counter = 0
+        #put space when letter is space
         if wrd[i] == " ":
             result += wrd[i]
+        #Put the first letter after the space
         if wrd[i-1] ==" " and wrd[i+1] != " ":
             result += wrd[i]
+        # add amount of character into the counter
         elif wrd[i-1] != " " and wrd[i] != " " and wrd[i+1] != " ":
             counter+=1
+    #add the counter and last letter
     if counter != 0:
         result += str(counter)
     result += wrd[-1]
