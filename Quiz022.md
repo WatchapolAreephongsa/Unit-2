@@ -19,7 +19,7 @@ def BlackBox(wrd):
         if wrd[i-1] ==" " and wrd[i+1] != " ":
             result += wrd[i]
         # add amount of character into the counter
-        elif wrd[i-1] != " " and wrd[i] != " " and wrd[i+1] != " ":
+        else:
             counter+=1
     #add the counter and last letter
     if counter != 0:
@@ -37,3 +37,9 @@ print(BlackBox("98 99 100 101 1062"))
 
 # Outcome
 <img width="831" alt="Q22" src="https://user-images.githubusercontent.com/82266864/146287694-de69e59d-f41e-4866-b3ca-abb0c0d9ecfc.png">
+
+
+# Flowchart
+<img width="442" alt="Quiz 22(1" src="https://user-images.githubusercontent.com/82266864/148736769-56f21758-8f0c-4fb2-a685-93f240a97769.png">
+<img width="495" alt="Quiz 22(2" src="https://user-images.githubusercontent.com/82266864/148736775-9d125847-6031-4655-94ed-6d9c5f9cf5e3.png">
+
