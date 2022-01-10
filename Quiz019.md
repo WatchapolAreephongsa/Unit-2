@@ -28,3 +28,7 @@ print(output)
 
 # Output
 <img width="786" alt="Quiz198" src="https://user-images.githubusercontent.com/82266864/148713344-13cff149-e56e-45b4-8b54-5946f1751c1c.png">
+
+# Flowchart
+
+<img width="850" alt="Quiz19fc" src="https://user-images.githubusercontent.com/82266864/148716065-df88637b-4dd3-4430-b35b-36e8ef27aaee.png">
