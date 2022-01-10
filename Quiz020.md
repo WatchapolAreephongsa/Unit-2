@@ -23,3 +23,7 @@ print(output)
 # Sample Output
 
 <img width="905" alt="QUiz" src="https://user-images.githubusercontent.com/82266864/148713952-3f28d66d-f27a-47a9-8870-4db652d0b02b.png">
+
+# Flowchart
+
+<img width="670" alt="Quiz20" src="https://user-images.githubusercontent.com/82266864/148732453-8fc6bf2f-3f9a-4aea-b52c-2bbfb4276e0a.png">
